@@ -10,7 +10,7 @@ int some_func(int a, int b)
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hi there! Surprise from first repository\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
