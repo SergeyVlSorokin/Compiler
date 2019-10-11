@@ -5,12 +5,12 @@
 
 int some_func(int a, int b)
 {
-	return a + b;
+	return a - b;
 }
 
 int main()
 {
-    std::cout << "Hi there! Surprise from first repository\n";
+    std::cout << "Hi there!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
