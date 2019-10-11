@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scanner", "Scanner\Scanner.vcxproj", "{8DCAD05E-7DB5-49EE-A796-E72C6C9A1BE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScannerTest", "ScannerTest\ScannerTest.vcxproj", "{6713C7FA-AF5F-41FE-A283-9CC085F1A626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{8DCAD05E-7DB5-49EE-A796-E72C6C9A1BE8}.Release|x64.Build.0 = Release|x64
 		{8DCAD05E-7DB5-49EE-A796-E72C6C9A1BE8}.Release|x86.ActiveCfg = Release|Win32
 		{8DCAD05E-7DB5-49EE-A796-E72C6C9A1BE8}.Release|x86.Build.0 = Release|Win32
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Debug|x64.ActiveCfg = Debug|x64
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Debug|x64.Build.0 = Debug|x64
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Debug|x86.ActiveCfg = Debug|Win32
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Debug|x86.Build.0 = Debug|Win32
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Release|x64.ActiveCfg = Release|x64
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Release|x64.Build.0 = Release|x64
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Release|x86.ActiveCfg = Release|Win32
+		{6713C7FA-AF5F-41FE-A283-9CC085F1A626}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

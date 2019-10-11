@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "Lexem.h"
 
 int some_func(int a, int b)
 {
@@ -11,6 +12,9 @@ int some_func(int a, int b)
 int main()
 {
     std::cout << "Hi there!\n";
+
+	Lexem lexem;
+	lexem.print(std::cout);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
