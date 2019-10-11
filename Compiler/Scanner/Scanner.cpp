@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+int some_func(int a, int b)
+{
+	return a + b;
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
